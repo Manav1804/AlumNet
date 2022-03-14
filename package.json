@@ -1,0 +1,22 @@
+{
+  "name": "alumnet",
+  "version": "1.0.0",
+  "description": "AlumNet is a generalized platform for all the colleges/universities for tracking and connecting alumni irrespective of their tiers.  We aim to aid students with proper guidance and mentorship.  Student would be able to make the right decisions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paritoshtripathi935/AlumNet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paritoshtripathi935/AlumNet/issues"
+  },
+  "homepage": "https://github.com/paritoshtripathi935/AlumNet#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
